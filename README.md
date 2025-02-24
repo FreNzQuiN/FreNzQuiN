@@ -21,7 +21,7 @@
 
 ## Contribute
 
-[![My Github Activity](https://github-readme-activity-graph.vercel.app/graph?username=FreNzQuiN)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![My Github Activity](https://github-readme-activity-graph.vercel.app/graph?username=FreNzQuiN&bg_color=0e1627&color=00d8fe&)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
