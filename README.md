@@ -21,7 +21,7 @@
 
 ## Contribute
 
-[![My Contribution](https://github-readme-streak-stats.herokuapp.app/?user=FreNzQuiN&theme=dark)](https://github.com/FreNzQuiN)
+[![My Github Activity](https://github-readme-activity-graph.vercel.app/graph?username=FreNzQuiN)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
