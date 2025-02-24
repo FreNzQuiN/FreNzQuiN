@@ -7,19 +7,19 @@
 * ***[Kananimezone]***: Website, Apps, and Community
 * ***TBA***
 
-## Statistik GitHub
+## GitHub Status
 
 [![My Github Statistics](https://github-readme-stats.vercel.app/api?username=FreNzQuiN&show_icons=true&theme=dark)](https://github.com/FreNzQuiN)
 
 [![Frequently Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FreNzQuiN&layout=compact&theme=dark)](https://github.com/FreNzQuiN)
 
-## Kontak
+## Contact
 
 * [LinkedIn Link](https://www.linkedin.com/in/FreNzQuiN)
 <!--* [Tautan Twitter](https://twitterFrequently Used Languages.com/FreNzQuiN)-->
 * [Blog/Website Links](https://kananimezone.blogspot.com)
 
-## Kontribusi
+## Contribute
 
 [![My Contribution](https://github-readme-streak-stats.herokuapp.com/?user=FreNzQuiN&theme=dark)](https://github.com/FreNzQuiN)
 
