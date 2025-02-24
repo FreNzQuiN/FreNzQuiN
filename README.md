@@ -21,7 +21,7 @@
 
 ## Contribute
 
-[![My Contribution](https://github-readme-streak-stats.herokuapp.com/?user=FreNzQuiN&theme=dark)](https://github.com/FreNzQuiN)
+[![My Contribution](https://github-readme-streak-stats.herokuapp.app/?user=FreNzQuiN&theme=dark)](https://github.com/FreNzQuiN)
 
 ---
 
