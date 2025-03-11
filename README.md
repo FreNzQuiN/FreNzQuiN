@@ -11,7 +11,7 @@
 
 [![My Github Statistics](https://github-readme-stats.vercel.app/api?username=FreNzQuiN&show_icons=true&theme=tokyonight)](https://github.com/FreNzQuiN)
 
-[![Frequently Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FreNzQuiN&layout=compact&theme=tokyonight)](https://github.com/FreNzQuiN)
+[![Frequently Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FreNzQuiN&layout=donut-vertical&theme=tokyonight)](https://github.com/FreNzQuiN)
 
 ## Contact
 
