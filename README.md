@@ -9,7 +9,7 @@
 
 ## GitHub Status
 
-[![My Github Statistics](https://github-readme-stats.vercel.app/api?username=FreNzQuiN&show_icons=true&theme=dark)](https://github.com/FreNzQuiN)
+[![My Github Statistics](https://github-readme-stats.vercel.app/api?username=FreNzQuiN&show_icons=true&theme=tokyonight)](https://github.com/FreNzQuiN)
 
 [![Frequently Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FreNzQuiN&layout=compact&theme=dark)](https://github.com/FreNzQuiN)
 
