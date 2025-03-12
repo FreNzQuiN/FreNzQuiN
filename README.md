@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🌱 My Current Study: WebDev (SEO,FrontEnd,etc), Competitive and Software Development
+* 🌱 *My Current Study: WebDev (SEO,FrontEnd,etc), Competitive and Software Development*
 
 ## Top Project 🔭
 
