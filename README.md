@@ -11,6 +11,8 @@
 
 [![My Github Statistics](https://github-readme-stats.vercel.app/api?username=FreNzQuiN&show_icons=true&theme=tokyonight)](https://github.com/FreNzQuiN)
 
+# 100 Commits - 12 March 25
+
 [![Frequently Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FreNzQuiN&layout=donut-vertical&theme=tokyonight)](https://github.com/FreNzQuiN)
 
 ## Contribute 👯
