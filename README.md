@@ -1,8 +1,6 @@
 ## Contribute 👯
 
-[![My Github Activity](https://github-readme-activity-graph.vercel.app/graph?username=FreNzQuiN&bg_color=0e1627&color=00d8fe&)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,cpp,py,php,mysql,kotlin,firebase,git,npm,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,html,css,kotlin,gradle,java,maven,cpp,rust,py,php,mysql,postgres,sqlite,mongodb,redis,rabbitmq,kafka,nginx,firebase,git,figma)](https://skillicons.dev)
 
 ## How to reach me
 
